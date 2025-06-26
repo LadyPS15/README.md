@@ -22,3 +22,10 @@ Desarrolladora Frontend con experiencia en **PHP**, **CSS**, **HTML**, **Laravel
 
 ![GitHub contributors](https://img.shields.io/github/contributors/LadyPS15/BlocNotasOnline)
 
+## Contribuciones
+
+He hecho más de **150** contribuciones en GitHub este mes, con varios pull requests, issues y commits en diferentes repositorios.
+
+- **Commits**: 50+
+- **Pull Requests**: 20+
+- **Issues**: 30+
