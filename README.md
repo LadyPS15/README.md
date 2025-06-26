@@ -18,6 +18,8 @@ Desarrolladora Frontend con experiencia en **PHP**, **CSS**, **HTML**, **Laravel
 - 💼 **Herramientas**: Git, GitHub, Figma 
 
 
-🔗 **GitHub**: [LadyPS15](https://github.com/LadyPS15)
+## Mi Actividad en GitHub
+
+![Contribuciones de GitHub](https://github.com/LadyPS15/github-contributions)
 
 
