@@ -15,7 +15,7 @@ Desarrolladora Frontend con experiencia en **PHP**, **CSS**, **HTML**, **Laravel
 - 🖥️ **Lenguajes de programación**: PHP, Python
 - 🛠️ **Frameworks**: Laravel, Flask
 - 🗄️ **Bases de datos**: MySQL, SQL
-- 💼 **Herramientas**: Git, GitHub
+- 💼 **Herramientas**: Git, GitHub, Figma 
 
 
 🔗 **GitHub**: [LadyPS15](https://github.com/LadyPS15)
