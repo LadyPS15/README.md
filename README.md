@@ -1,6 +1,6 @@
 # Hola, soy Lady Perez Simon 👋
 
-Desarrolladora Frontend y Backend con experiencia en **PHP**, **CSS**, **HTML**, **Laravel**, **Flask**, **Python**, **MySQL** y **SQL**.
+Desarrolladora Frontend con experiencia en **PHP**, **CSS**, **HTML**, **Laravel**, **Flask**, **Python**, **MySQL** y **SQL**.
 
 ## Sobre mí
 
